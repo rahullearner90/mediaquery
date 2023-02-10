@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+
+@media screen and (max-width:1440px) {
+    body{
+        background-color: green;
+        /* text-align: end; */
+    }
+    /* h4::after{
+        "screen:1440px"
+    } */
+}
